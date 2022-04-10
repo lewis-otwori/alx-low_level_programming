@@ -15,12 +15,10 @@ int main(void)
 	{
 		putchar(x);
 	}
-        for (ch = 'a'; ch < 'g'; ch++)
+	for (ch = 'a'; ch < 'g'; ch++)
 	{
 		putchar(ch);
 	}
 	putchar('\n');
 	return (0);
 }
-
-
