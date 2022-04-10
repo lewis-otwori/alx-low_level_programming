@@ -12,7 +12,7 @@ int main(void)
 
 	for (x = 48; x <= 57; x++)
 	{
-	for (x = 48; y <= 57; y++)
+	for (y = 48; y <= 57; y++)
 	{
 	if (x == y || y <= x)
 	{
@@ -35,4 +35,3 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
-
