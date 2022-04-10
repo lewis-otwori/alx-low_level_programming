@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints all possible combinations of two two-digit numbers 
+ * main - prints all possible combinations of two two-digit numbers
  *
  * Returns:Always 0 (Success)
  */
@@ -30,6 +30,7 @@ int main(void)
 		}
 
 	        }
+
 	        putchar('\n');
 		return (0);
 }
