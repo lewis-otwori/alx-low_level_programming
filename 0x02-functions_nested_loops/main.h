@@ -23,7 +23,7 @@ int _abs(int);
 int print_last_digit(int);
 
 /*prints every minute of the day of jack bauer*/
-void times_table(void);
+void jack_bauer(void);
 
 /*prints the 9 times table*/
 void times_table(void);
