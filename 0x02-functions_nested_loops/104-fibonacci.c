@@ -21,7 +21,7 @@ printf("%lu", bef);
 for (i = 1; i < 91; i++)
 {
 printf(", %lu", aft);
-aft += bef;
+aft + = bef;
 bef = aft - bef;
 }
 
