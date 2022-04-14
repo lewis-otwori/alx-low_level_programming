@@ -5,7 +5,7 @@
  * @c: integer to be tested
  * Return: 1 or 0
  */
-int _isslower(int c)
+int _islower(int c)
 {
 	return (c >= 97 && c <= 122);
 }
