@@ -1,7 +1,7 @@
 #include "3-calc.h"
 #include <stdlib.h>
 
-/*
+/**
  * get_op_func - gets the correct function
  * to perform the operation
  * @s: operator passed
